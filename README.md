@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sima Karimi
-- 👀  I’m interested in programming and web development.I graduated in Software Engineering and I've got my Ms in Artificial intelligence. I've got plans to pursue my studies in Data Science.
+- 👀  I’m interested in programming and web development.I graduated in Software Engineering and I've got my Ms in Artificial intelligence.
 - 🌱 I’m currently learning python and Data science.
 - 💞️ - 💞️ I’m looking to collaborate on related projects to python, front-end development, and data science
 
